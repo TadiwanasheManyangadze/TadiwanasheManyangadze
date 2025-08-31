@@ -1,6 +1,4 @@
 
-<img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/7a2f3d8d-da1e-49aa-b6aa-5a3380a7cff9" />
-
 ### Hi,I am Tadiwanashe Manyangadze! 👋
 
 <div align="center">

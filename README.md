@@ -2,7 +2,7 @@
 ### Hi,I am Tadiwanashe Manyangadze! 👋
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=700&color=cc0066&center=true&vCenter=true&width=800&lines=Software+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=700&color=blue&center=true&vCenter=true&width=800&lines=Frontend+Development" alt="Typing SVG" />
 </div>
 
 

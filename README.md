@@ -7,7 +7,7 @@
 
 
 ---
- Software Engineer | Artificial Intelligence and  Machine Learning Enthusiast | Extern Ambassador | Microsoft Learn Student Ambassador| Millenium Fellowship '24  </br>
+
 
 ## 🚀 About Me 
  🚀  Software engineer sharing about my journey and learnings in tech </br>

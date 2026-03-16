@@ -1,68 +1,43 @@
+ Tadiwanashe Manyangadze
 
-### Hi,I am Tadiwanashe Manyangadze! 👋
 
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=700&color=blue&center=true&vCenter=true&width=800&lines=Frontend+Development" alt="Typing SVG" />
-</div>
+I build reliable deployment pipelines, harden production infrastructure, automate operational workflows, and help engineering teams ship faster with less friction.
 
+---
+
+## Currently
+- Designing and maintaining multi-cloud infrastructure on AWS and GCP using Terraform and Pulumi
+- Building internal developer platforms with Backstage, ArgoCD, and Kubernetes operators
+- Improving observability stacks: metrics, logs, traces, and alerting pipelines across distributed systems
+- Automating security and compliance workflows: SAST, DAST, secrets scanning, and policy-as-code
+
+---
+
+## About Me
+I'm a platform and DevOps engineer based in Harare,Zimbabwe.
+
+I focus on the gap between writing code and running it reliably at scale. That means CI/CD pipelines that developers trust, infrastructure that recovers gracefully, observability that surfaces real problems, and deployment workflows that get out of the way.
+
+My work spans the full infrastructure lifecycle: architecture, provisioning, hardening, monitoring, incident response, and the ongoing work of reducing operational toil. I care about systems that are understandable, not just functional.
+
+---
+
+## What I Work On
+
+- **Cloud infrastructure and IaC** — provisioning and managing production environments on AWS, GCP, and Azure using Terraform, Pulumi, and Ansible; multi-account strategies, networking, and cost governance
+- **Container orchestration** — Kubernetes cluster design, Helm chart authoring, custom operators, workload scaling, and multi-cluster federation
+- **CI/CD and developer platforms** — GitHub Actions, GitLab CI, ArgoCD, Flux, Tekton; building fast, reliable pipelines for build, test, scan, and deploy workflows
+- **Observability and incident response** — Prometheus, Grafana, Loki, Tempo, OpenTelemetry; runbook automation, alerting design, and on-call tooling
+- **Security and compliance** — secrets management with Vault and AWS Secrets Manager, image scanning, policy enforcement with OPA and Kyverno, RBAC, and audit logging
+- **Platform engineering** — internal developer portals, self-service infrastructure tooling, golden paths, and reducing cognitive load for application teams
+- **Database and data infrastructure operations** — PostgreSQL, MySQL, Redis; backup strategies, replication, migrations, and operational reliability
 
 ---
 
 
-## 🚀 About Me 
- 🚀  Software engineer sharing about my journey and learnings in tech </br>
- 💻 Studying Bachelor of Technology in Computer Science at Harare Institute of Technology </br>
- 🧠 Constantly learning & sharing what I learn
- 🛠️ Focused on **performance**, **developer experience**, and **clean UI**
-   
----
-
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://1000logos.net/wp-content/uploads/2020/08/Django-Logo-500x313.png" alt="Django" height="50" />  
-<img style="margin: 10px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="Fast API" height="50" /> 
-
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-  
-<img style="margin: 10px" src="https://logowik.com/content/uploads/images/nextjs7685.logowik.com.webp" alt="Next JS" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />  
-<img style="margin: 10px" src="https://logowik.com/content/uploads/images/tailwind-css3232.logowik.com.webp" alt="Tailwind CSS" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-
-</div>
-
-</td><td valign="top" width="33%">
-
-### DevOps  
-<div align="center">   
-
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /> 
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS"  height="50" />
-
-</div>
 
 
-## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tmanyangadze)
----
 
-## 📈 GitHub Stats
-![Tadiwanashe's GitHub stats](https://github-readme-stats.vercel.app/api?username=TadiwanasheManyangadze&show_icons=true&theme=radical)
-[![](https://visitcount.itsvg.in/api?id=TadiwanasheManyangadze&icon=0&color=0)](https://visitcount.itsvg.in)
 
+!

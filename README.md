@@ -1,7 +1,4 @@
- Tadiwanashe Manyangadze
-
-
-I build reliable deployment pipelines, harden production infrastructure, automate operational workflows, and help engineering teams ship faster with less friction.
+DEVOPS ENGINEER
 
 ---
 
